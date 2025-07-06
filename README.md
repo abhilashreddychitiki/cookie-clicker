@@ -22,7 +22,7 @@ pip install undetected-chromedriver selenium
 - Run the Python script:
 
 ```bash
-python cookie_clicker_bot.py
+python main.py
 ```
 The bot will:
 - Open Cookie Clicker. 
